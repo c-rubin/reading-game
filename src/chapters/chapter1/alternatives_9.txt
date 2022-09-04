@@ -1,0 +1,4 @@
+A) To fetch a doctor
+B) To fetch a locksmith
+C) To fetch a doctor and a locksmith
+D) To fetch an exterminator
